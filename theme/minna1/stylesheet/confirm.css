@@ -1,0 +1,8 @@
+.button {
+	padding-left: 8px;
+	display: inline-block;
+	margin-right: 5px;
+	background: url('../image/button_left.png') top left no-repeat;
+	text-decoration: none;
+	color:#FFF;
+}
