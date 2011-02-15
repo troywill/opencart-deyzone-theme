@@ -9,7 +9,9 @@ $_['text_payment']         = 'Payment';
 $_['text_payment_to']      = 'Please choose from your address book where you would like the invoice sent.';
 $_['text_payment_address'] = 'Payment Address';
 $_['text_payment_method']  = 'Payment Method';
-$_['text_payment_methods'] = 'Please select the preferred payment method to use on this order.';
+// TDW troydwill@gmail.com 2011-02-14
+// $_['text_payment_methods'] = 'Please select the preferred payment method to use on this order.';
+$_['text_payment_methods'] = 'Please use PayPal to securely process your credit card, debit card, or PayPal payment.';
 $_['text_comments']        = 'Add Comments About Your Order';
 $_['text_agree']           = 'I have read and agree to the <a class="thickbox" href="index.php?route=information/information/loadInfo&checkout=1" alt="%s"><b>%s</b></a>';
 $_['text_coupon']          = 'Enter your code and click "Apply Coupon" to have your discount applied to your order.';
