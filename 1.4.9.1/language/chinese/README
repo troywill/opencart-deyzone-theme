@@ -1,0 +1,46 @@
+http://www.opencart.com
+OpenCart V 1.4.9.1    Chinese Simplified Language Pack
+
+--------------------------------
+
+中文简体语言包
+
+下载后解压压缩包里面有两个文件夹，admin文件是后台语言包，catalog文件是前台语言包。请把它们上传到你的OpenCart 网站目录根。登录到你的网店后台。 
+
+注意： 请确保你现在的版本是  OpenCart V 1.4.9.1
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+1。登录到你的网店后台：
+
+选择：   System  ->  Localisation  ->  Languages  ->   Insert  (增加语言)
+
+填入如下： 
+
+Language Name:  	Chinese
+Code:  	  		cn
+Locale:   		zh,zh-hk,zh-cn,zh-cn.UTF-8,cn-gb,chinese	
+Image: 	  		cn.png
+Directory:   		chinese
+Filename:   		chinese
+Status:   		Enabled  (启动)
+Sort Order:  		任意数字
+
+填好点击   Save  保存
+
+2。把中文语言设置为默认语言。
+
+选择：Sytem  ->  Settings  ->  Local 
+
+找到以下项目 设为: Chinese
+
+Language:  	       
+Administration Language:
+
+填好点击   Save  保存
+
+当然，如果你只希望后台是中文、前台还是英文、就选择后台:  Administration Language: 为：Chinese 就可以了。
+
+现在看看效果如何？ 
+
+--------------------------------------------------------------------------------------------------------------------------------
